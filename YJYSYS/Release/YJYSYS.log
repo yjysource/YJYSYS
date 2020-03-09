@@ -1,0 +1,23 @@
+﻿  uic YJYSYS.ui
+  rcc YJYSYS.qrc
+  moc YJYSYS.h
+  moc camerawidget.h
+  moc qextserialbase.h
+  moc parawidget.h
+  moc MyTitle.h
+  moc win_qextserialport.h
+  camerawidget.cpp
+  disngwidget.cpp
+  line.cpp
+  main.cpp
+  MyTitle.cpp
+  parawwidget.cpp
+  qextserialbase.cpp
+  win_qextserialport.cpp
+  YJYSYS.cpp
+c:\users\administrator.desktop-ip1qhup\desktop\smartgit\yjysys\yjysys\definition.h(25): fatal error C1083: 无法打开包括文件: “cv.h”: No such file or directory (编译源文件 disngwidget.cpp)
+c:\users\administrator.desktop-ip1qhup\desktop\smartgit\yjysys\yjysys\definition.h(25): fatal error C1083: 无法打开包括文件: “cv.h”: No such file or directory (编译源文件 line.cpp)
+c:\users\administrator.desktop-ip1qhup\desktop\smartgit\yjysys\yjysys\definition.h(25): fatal error C1083: 无法打开包括文件: “cv.h”: No such file or directory (编译源文件 camerawidget.cpp)
+c:\users\administrator.desktop-ip1qhup\desktop\smartgit\yjysys\yjysys\definition.h(25): fatal error C1083: 无法打开包括文件: “cv.h”: No such file or directory (编译源文件 main.cpp)
+c:\users\administrator.desktop-ip1qhup\desktop\smartgit\yjysys\yjysys\definition.h(25): fatal error C1083: 无法打开包括文件: “cv.h”: No such file or directory (编译源文件 YJYSYS.cpp)
+c:\users\administrator.desktop-ip1qhup\desktop\smartgit\yjysys\yjysys\definition.h(25): fatal error C1083: 无法打开包括文件: “cv.h”: No such file or directory (编译源文件 MyTitle.cpp)

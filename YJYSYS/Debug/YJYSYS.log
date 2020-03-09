@@ -1,2 +1,26 @@
-﻿  MyTitle.cpp
-  YJYSYS.vcxproj -> D:\YJYVISON\YJYSYS\Debug\YJYSYS.exe
+﻿  Reading Qt configuration (C:\Qt\Qt5.12.0\5.12.0\msvc2017\bin\qmake.exe)
+  uic YJYSYS.ui
+  rcc YJYSYS.qrc
+  moc YJYSYS.h
+  moc camerawidget.h
+  moc qextserialbase.h
+  moc parawidget.h
+  moc MyTitle.h
+  moc win_qextserialport.h
+  camerawidget.cpp
+  disngwidget.cpp
+  line.cpp
+  main.cpp
+  MyTitle.cpp
+  parawwidget.cpp
+  qextserialbase.cpp
+  win_qextserialport.cpp
+  YJYSYS.cpp
+  qrc_YJYSYS.cpp
+  moc_YJYSYS.cpp
+  moc_camerawidget.cpp
+  moc_qextserialbase.cpp
+  moc_parawidget.cpp
+  moc_MyTitle.cpp
+  moc_win_qextserialport.cpp
+  YJYSYS.vcxproj -> C:\Users\Administrator.DESKTOP-IP1QHUP\Desktop\smartgit\YJYSYS\Debug\YJYSYS.exe

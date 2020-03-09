@@ -79,11 +79,6 @@
     </QtUic>
   </ItemGroup>
   <ItemGroup>
-    <QtRcc Include="YJYSYS.qrc">
-      <Filter>Resource Files</Filter>
-    </QtRcc>
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="definition.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -96,5 +91,10 @@
     <ClInclude Include="disngwidget.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="YJYSYS.qrc">
+      <Filter>Source Files</Filter>
+    </QtRcc>
   </ItemGroup>
 </Project>
